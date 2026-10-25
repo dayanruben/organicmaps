@@ -1,5 +1,5 @@
 -r ../maps_generator/requirements_dev.txt
-apache-airflow [postgres]==1.10.10
+apache-airflow [postgres]==3.3.1
 psycopg2-binary==2.8.4
 cryptography>=41.0.0
 webdavclient==1.0.8
